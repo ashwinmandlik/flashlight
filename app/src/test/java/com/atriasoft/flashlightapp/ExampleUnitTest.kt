@@ -1,4 +1,4 @@
-package com.example.flashlightapp
+package com.atriasoft.flashlightapp
 
 import org.junit.Test
 

@@ -1,8 +1,8 @@
-package com.example.flashlightapp
+package com.atriasoft.flashlightapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.flashlightapp.databinding.ActivityMainBinding
+import com.atriasoft.flashlightapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private var flashLight = FlashLigth(this)
